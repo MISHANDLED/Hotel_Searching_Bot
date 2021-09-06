@@ -19,4 +19,4 @@ CLI Bot to find deals from Booking.com using Selenium and Python
     `python run.py`
     
     
- [Working Example of the bot](https://github.com/MISHANDLED/Selenium_Python/blob/master/.idea/working.png)
+ ![Working Example of the bot](https://github.com/MISHANDLED/Selenium_Python/blob/master/.idea/working.png)
