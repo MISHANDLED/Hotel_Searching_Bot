@@ -19,6 +19,7 @@ try:
         bot.apply_filter()
         bot.refresh()
         bot.hotel_results()
+        bot.close()
 
 except Exception as e:
     if 'in PATH' in str(e):

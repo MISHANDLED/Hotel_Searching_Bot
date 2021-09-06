@@ -21,6 +21,7 @@ class Booking(webdriver.Chrome):
         if self.teardown:
             self.quit()
 
+
     def land_first_page(self):
         self.get(const.BASE_URL)
 
