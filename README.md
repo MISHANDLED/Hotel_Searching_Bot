@@ -1,5 +1,5 @@
 # Selenium_Python
-Bot to find deals from Booking.com using Selenium and Python
+CLI Bot to find deals from Booking.com using Selenium and Python
 
 ## *Requirements* 
 * prettytable
@@ -17,3 +17,6 @@ Bot to find deals from Booking.com using Selenium and Python
    `PATH=$PATH:/path/toyour/folder/` for linux
 * After that, run the bot using the following command
     `python run.py`
+    
+    
+ [Working Example of the bot](https://github.com/MISHANDLED/Selenium_Python/blob/master/.idea/working.png)
